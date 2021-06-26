@@ -37,6 +37,9 @@ O LetmeAsk é um chat para bate-papo.
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
+## 💻 Link do Projeto
+- https://letmeask-e5336.web.app/
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
